@@ -1,24 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Futebol',
+    'Qual a maior torcida do Brasil ?',
+    'Flamengo'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual o país mais populoso?',
+    'Índia, com seus 1,428 bilhão de pessoas'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'o que é o conceito de programação?',
+    'De forma geral, a programação é um processo de escrita, testes e manutenção de programas de computadores.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Economia',
+    'Qual é a principal forma de economia do Brasil?',
+    'exportação de produtos, principalmente aqueles ligados ao setor de agricultura, pecuária e mineração'
 )
 
